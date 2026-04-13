@@ -18,7 +18,14 @@
 - 📊 Data Tools: Excel, Pandas, NumPy
 - 🗄️ Database: MySQL, PostgreSQL
 - 🌐 Web: HTML, CSS, JavaScript
-- 🔐 Cyber Security: Kali Linux (Basics)
+- 🔐 Cyber Security: Kali Linux 
+CSS3 HTML5 JavaScript Python PHP Google Cloud Vultr Netlify Firebase Vercel Bootstrap Django Express.js Flask NodeJS Web3.js Apache Apache Airflow Apache Tomcat Java MySQL MongoDB MicrosoftSQLServer Canva Affinity Photo Figma Proto.io Adobe Photoshop NumPy Pandas PyTorch TensorFlow Plotly Scipy scikit-learn mlflow Matplotlib Keras GitHub Selenium Testing-Library Power Bi Itch.io Docker Meta CodeCov
+
+📊 GitHub Stats:
+
+
+
+
 
 ---
 
